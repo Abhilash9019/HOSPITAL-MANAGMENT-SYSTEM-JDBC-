@@ -37,7 +37,7 @@ Welcome to the **Hospital Management System**, a Java-based application designed
 
 4. **Run the application**:
    - Open the project in your preferred IDE.
-   - Compile and run the `Main.java` file.
+   - Compile and run the `HospitalManagementSystem` file.
 
 ## Usage
 
