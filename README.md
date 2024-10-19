@@ -20,7 +20,7 @@ Welcome to the **Hospital Management System**, a Java-based application designed
 
 1. **Clone the repository**:
    ```bash
-   git clone https:https://github.com/Abhilash9019/HOTEL-MANAGMENT-SYSTEM-JDBC-.git
+   git clone https:https://github.com/Abhilash9019/Hospital-MANAGMENT-SYSTEM-JDBC-.git
    ```
 
 2. **Set up the database**:
