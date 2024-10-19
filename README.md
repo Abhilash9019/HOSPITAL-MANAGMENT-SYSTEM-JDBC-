@@ -20,7 +20,7 @@ Welcome to the **Hospital Management System**, a Java-based application designed
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/hospital-management-system.git
+   git clone https:https://github.com/Abhilash9019/HOTEL-MANAGMENT-SYSTEM-JDBC-.git
    ```
 
 2. **Set up the database**:
@@ -58,10 +58,8 @@ Welcome to the **Hospital Management System**, a Java-based application designed
 ## Project Structure
 
 - `src/`: Contains all the Java source files.
-  - `Main.java`: Entry point of the application.
+  - `HospitalManagementSystem`: Entry point of the application.
   - `Patient.java`, `Doctor.java`, `Appointment.java`: Models for handling patient, doctor, and appointment data.
-  - `PatientService.java`, `DoctorService.java`, `AppointmentService.java`: Business logic for managing patients, doctors, and appointments.
-  - `DatabaseConfig.java`: Handles database connections.
 
 - `db/`: Contains SQL scripts for setting up the database.
 
