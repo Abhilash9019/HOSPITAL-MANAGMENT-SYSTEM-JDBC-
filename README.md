@@ -1,4 +1,4 @@
-# Hospital Management System
+# Hospital Management System🏥
 
 Welcome to the **Hospital Management System**, a Java-based application designed to streamline hospital operations. This system allows you to efficiently manage patients, doctors, and appointments, helping hospitals and clinics stay organized and provide better care.
 
@@ -30,7 +30,7 @@ Welcome to the **Hospital Management System**, a Java-based application designed
 3. **Configure the database connection**:
    - Open the `DatabaseConfig.java` file and update the following fields with your database details:
      ```java
-     String url = "jdbc:mysql://localhost:3306/hospital_management";
+     String url = "jdbc:mysql://localhost:3306/hospital";
      String user = "root";
      String password = "yourpassword";
      ```
